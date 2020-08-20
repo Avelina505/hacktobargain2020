@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [Avelina505](https://github.com/Avelina505)
+- Place: AUS
+- Bio: Student
+- GitHub: [Avelina505](https://github.com/Avelina505)
